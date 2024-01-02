@@ -1,9 +1,30 @@
-import React from 'react'
+import { SiWebmoney } from "react-icons/si";
 
 const NavBar = () => {
   return (
     <div>
-      NavBar
+     <div>
+      <div>
+        <h1>Minas</h1>
+      </div>
+      <div>
+        <ul>
+          <li>Overview</li>
+          <li>Feature</li>
+          <li>About</li>
+          <li>Pricing</li>
+        </ul>
+      </div>
+     </div>
+     <div>
+      <div>   
+        <SiWebmoney />
+        <h3>Language</h3>
+      </div> 
+      <button>
+        Sign Up
+      </button> 
+     </div>
     </div>
   )
 }
