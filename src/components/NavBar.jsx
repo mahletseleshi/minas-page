@@ -9,7 +9,7 @@ const NavBar = () => {
       </div>
       <div>
         <ul>
-          <li>Overview</li>
+          <li>Overvie</li>
           <li>Feature</li>
           <li>About</li>
           <li>Pricing</li>
