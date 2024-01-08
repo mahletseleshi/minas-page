@@ -19,7 +19,7 @@ const NavBar = () => {
      <div>
       <div>   
         <SiWebmoney />
-        <h3>Language</h3>
+        <h3>Languages</h3>
       </div> 
       <button>
         Sign Up
